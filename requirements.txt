@@ -1,0 +1,11 @@
+openai
+langchain
+pdfplumber
+python-docx
+docx2txt
+faiss-cpu
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
