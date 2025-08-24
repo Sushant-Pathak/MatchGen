@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+pypdf
+openai
+chromadb
+faiss-cpu
+tiktoken
+python-dotenv
+langchain-community
+google-auth google-auth-oauthlib 
+google-auth-httplib2
